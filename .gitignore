@@ -1,0 +1,12 @@
+# Journal Database - NEVER COMMIT
+databases/journal.db
+
+# Python virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Environment / secrets
+.env
